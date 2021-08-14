@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Search><pages Count="16"><page Index="1"/><page Index="2"/><page Index="3"><![CDATA[INGENIERIA DE MÉTODOS
+                                                           CURSO VIRTUAL- MODULO 1
+                                                     UNIVERSIDAD MAYOR DE SAN ANDRES
+
+
+                                                                FACULTAD DE INGENIERIA
+
+                                                                 INGENIERIA INDUSTRIAL
+
+
+
+
+
+
+
+                  CURSO VIRTUAL
+
+
+
+                     APP INVENTOR]]></page><page Index="4"><![CDATA[INGENIERIA DE MÉTODOS
+                                                           CURSO VIRTUAL- MODULO 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               CONOCIMIENTOS
+
+
+
+
+
+
+                                                          BÁSICOS
+
+                                             BLOQUES DE CONTROL]]></page><page Index="5"><![CDATA[INGENIERIA DE MÉTODOS
+                                                           CURSO VIRTUAL- MODULO 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                  Una aplicación es un programa
+
+
+                                                  informático diseñado como una
+
+
+                                                  herramienta para realizar operaciones
+
+            ¿QUE ES UNA                           o funciones específicas.
+
+            APLICACIÓN?                           Generalmente, son diseñadas para
+
+
+                                                  facilitar ciertas tareas complejas y
+
+                                                  hacer más sencilla la experiencia
+
+
+                                                  informática de las personas.]]></page><page Index="6"><![CDATA[INGENIERIA DE MÉTODOS
+                                                           CURSO VIRTUAL- MODULO 1
+
+
+
+
+
+                                                      La  programación  es  una  herramienta
+
+                                                      fundamental  en  el  mundo  en  el  que
+                                                      vivimos,  convirtiéndose  en  una  salida
+                LA IMPORTACIA DE                      laboral        importante.           Además,           su
+                    PROGRAMAR
+                                                      aprendizaje  constituye  una  oportunidad
+
+                                                      al mejorar el razonamiento lógico formal.
+
+
+
+
+
+
+
+
+
+                                                       AppInventor es un entorno de desarrollo
+
+                                                       de software creado por Google para la
+
+                                                       elaboración de aplicaciones destinadas
+
+                                                       al  sistema  operativo  de  Android.  El
+                    ¿QUE ES APP                        lenguaje es gratuito y se puede acceder
+
+                     INVENTOR?                         fácilmente de la web. Las aplicaciones
+
+                                                       creadas con AppInventor están limitadas
+
+                                                       por su simplicidad.]]></page><page Index="7"><![CDATA[INGENIERIA DE MÉTODOS
+                                                           CURSO VIRTUAL- MODULO 1
+
+
+
+
+
+                                                                      OBJETIVO DE LA
+
+                                                                     MATERIA EN APP
+                                                                            INVENTOR
+
+
+
+
+
+
+
+
+
+                                                               Se espera generar aplicaciones con las
+
+                                                               que puedan dar uso a las herramientas
+
+
+                                                               de la ingeniería de métodos como ser
+                                                               5s, diagramas, estudios de tiempos, etc.]]></page><page Index="8"><![CDATA[INGENIERIA DE MÉTODOS
+                                                           CURSO VIRTUAL- MODULO 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                         INGRESO
+
+
+
+
+
+                                             BLOQUES DE CONTROL]]></page><page Index="9"><![CDATA[INGENIERIA DE MÉTODOS
+                                                           CURSO VIRTUAL- MODULO 1
+
+
+
+
+
+                                      CREAR UNA                                    Al ingresar a la pagina App Inventor se le
+
+                                                                                  pedirá acceder con una cuenta Google, ya
+                                       CUENTA EN                                existente o si prefiere crear una nueva cuenta
+
+                                         GOOGLE
+
+
+
+
+
+
+                                                                       Añadir la
+                                                                        cuenta
+
+
+
+
+
+
+
+
+
+                                                                    Hacer clic en
+                                                                     siguiente y                                          Inmediatamente
+
+                                                                       añadir la                                     tendremos los términos
+                                                                     contraseña                                            de servicio y lo
+                                                                                                                              aceptamos]]></page><page Index="10"><![CDATA[INGENIERIA DE MÉTODOS
+                                                           CURSO VIRTUAL- MODULO 1
+
+
+
+
+
+
+
+
+                                                            Desde un dispositivo móvil:
+                                                            celular, Tablet.
+                 INSTALAR APP                               1.- Ingresar a app store para
+                  INVENTOR EN EL                            Android, no será posible la
+
+                       ANDROID                              instalación para iOS
+
+                                                            2.-Buscar app inventor
+
+                                                            3.-Instalar
+
+
+
+
+
+
+                                                        Esta aplicación nos servirá para visualizar
+
+
+                                                        lo diseñado y programado en app inventor
+
+                                                             2 , es por eso que nos aparecerá la
+
+                                                            siguiente pantalla para que podamos
+                                                       escanear el QR generado por la página del
+
+
+                                                                                    diseño.]]></page><page Index="11"><![CDATA[INGENIERIA DE MÉTODOS
+                                                           CURSO VIRTUAL- MODULO 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    HERRAMIENTAS
+
+
+
+
+
+                                             BLOQUES DE CONTROL
+
+                                                           BÁSICAS]]></page><page Index="12"><![CDATA[INGENIERIA DE MÉTODOS
+                                                           CURSO VIRTUAL- MODULO 1
+
+
+
+
+
+
+                                                          • En esta pestaña se puede ver
+
+                                                             los proyectos que ya se crearon
+
+                   PROYECTOS                              • Se puede crear un nuevo
+
+                                                             proyecto
+
+                                                          • Importar o exportar proyecto
+
+                                                          • Borrar, guardar proyecto
+
+
+
+
+
+
+
+
+                                                 Al Companion: El cual te genera un código QR para
+                                                 visualizar como aplicación en el celular lo que se
+
+                                                 diseño en el equipo
+
+                                                 Emulador: Conecta con el emulador ya instalado en                                 CONECTAR
+
+                                                 el equipo para visualizar lo diseñado y programado
+
+                                                 USB: Mediante el cual se podrá conectar al USB
+
+                                                 para visualizar lo diseñado y programado en otro
+
+                                                 dispositivo.]]></page><page Index="13"><![CDATA[INGENIERIA DE MÉTODOS
+                                                           CURSO VIRTUAL- MODULO 1
+
+
+
+
+
+
+                                                          Nos ayudara a generar código QR
+
+
+
+                     GENERAR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                             Se puede habilitar el proyecto                                          SETTINGS
+                                                              automáticamente o dislexico                                            (AJUSTES)]]></page><page Index="14"><![CDATA[INGENIERIA DE MÉTODOS
+                                                           CURSO VIRTUAL- MODULO 1
+
+
+                                                      Brinda ayuda e información acerca de:
+
+
+                                                      La biblioteca que tiene app inventor
+
+                                                      Las extensiones para explorar, crear y
+
+                                                      compartir nuevas funciones a través de las
+
+                       AYUDA                          extensiones de App Inventor.
+
+                                                      Tutoriales para principiantes, herramientas de
+
+                                                      pintura y diseño
+
+                                                      Soluciones rápidas a problemas como
+
+                                                      actualizaciones, instalaciones, conexiones,etc.
+
+                                                      Foro en el cual usuarios pueden consultar y
+
+                                                      responder preguntas
+
+
+
+
+
+
+                                                                      Guías de introducción a app inventor y
+                                                                      documentación respecto a los bloques,                                     GUIA
+                                                                      componentes y uso de plantillas]]></page><page Index="15"><![CDATA[INGENIERIA DE MÉTODOS
+                                                           CURSO VIRTUAL- MODULO 1
+
+
+
+
+
+
+
+
+
+
+                                            Se tiene un blog en el
+
+                INFORMAR                    cual los usuarios de App
+
+                    DE UN                   inventor pueden
+                PROBLEMA                    preguntar y responder
+
+                                            las dudas que se tenían.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  Se debe tomar en cuenta
+                                                                                  que no todo se traduce,                                    ESPAÑOL
+
+                                                                                  muchas palabras se
+
+                                                                                  quedan en ingles.]]></page><page Index="16"/></pages></Search>
